@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">clientApplicationContentProvider</string>
+    <string name="app_client_title">App Client</string>
+</resources>
